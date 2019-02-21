@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="bank-configuration-service"/>
+<aop-project name="zuul-service-bank"/>
+<aop-project name="bankaccount"/>
+<aop-project name="transaction"/>
+<aop-project name="EurekaServer"/>
+<aop-project name="website"/>
+</aop-reference-model>

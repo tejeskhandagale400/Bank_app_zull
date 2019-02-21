@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Tejas\Bank-App-zuul\zuul-service-bank"/>
+			<item value="C:\Tejas\Bank-App-zuul\website"/>
+			<item value="C:\Tejas\Bank-App-zuul\transaction"/>
+			<item value="C:\Tejas\Bank-App-zuul\EurekaServer"/>
+			<item value="C:\Tejas\Bank-App-zuul\bank-configuration-service"/>
+			<item value="C:\Tejas\Bank-App-zuul\bankaccount"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
